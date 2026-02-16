@@ -16,7 +16,13 @@
 - SCSS  
 - JavaScript (ES7)  
 - React JS  
-- Tailwind CSS  
+- Tailwind CSS
+
+  ## 💻 Programming & DSA
+
+- C
+- C++
+- Data Structures & Algorithms (DSA) using C++
 
 ### 🛠 Tools
 - VS Code  
