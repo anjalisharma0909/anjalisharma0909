@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm Anjali Sharma 👋
+# Hi there, I'm Anjali Sharma 👋
 
 💻 Aspiring MERN Stack Developer |🎓 Pursuing BCA |🚀 Passionate about Web Development & Modern UI  
 
