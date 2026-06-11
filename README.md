@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/assets/wave.gif" width="35px">
 <h4 align="center">💻 Full Stack Developer || 🚀 Passionate about Web Development & Modern UI || Anjali Sharma from India</h4>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C6FF&width=600&lines=Web+Developer+💻;Open+Source+Contributor+🌐;Hacktoberfest+SuperContributor+🎃;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C6FF&width=600&lines=Full+Stack+Developer+💻;Open+Source+Contributor+🌐;Hacktoberfest+SuperContributor+🎃;Always+Learning+New+Things+🚀" />
 
 ---
 
